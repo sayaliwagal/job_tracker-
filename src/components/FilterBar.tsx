@@ -6,7 +6,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { Input } from "@/components/ui/input";
-import { JobStatus } from "@/lib/types";
+
 
 interface FilterBarProps {
   statusFilter: string;
